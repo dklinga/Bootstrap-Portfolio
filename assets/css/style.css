@@ -1,0 +1,12 @@
+
+
+.me {
+    transform: rotate(90deg);
+}
+
+@media screen and (max-width: 640px) {
+    .me {
+      width: 200px; 
+      height: 150px;
+    }
+
